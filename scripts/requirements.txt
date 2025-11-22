@@ -1,0 +1,31 @@
+# HyperCode Research Database - Python Dependencies
+
+# YAML parsing (for frontmatter extraction)
+PyYAML>=6.0.1
+
+# HTTP requests (for API calls)
+requests>=2.31.0
+
+# Date/time utilities
+python-dateutil>=2.8.2
+
+# JSON schema validation
+jsonschema>=4.20.0
+
+# Markdown processing
+markdown>=3.5.0
+
+# Graph visualization (optional - requires system graphviz)
+# Uncomment if you want to generate PNG graphs directly
+# graphviz>=0.20.1
+# networkx>=3.2.1
+# matplotlib>=3.8.0
+
+# Code quality tools (development)
+pylint>=3.0.0
+black>=23.12.0
+mypy>=1.7.0
+
+# Testing
+pytest>=7.4.3
+pytest-cov>=4.1.0
