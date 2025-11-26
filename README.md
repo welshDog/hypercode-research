@@ -212,3 +212,47 @@ Stars help us reach more contributors and show the world that this matters.
 **Built with 💜 by neurodivergent coders, for neurodivergent coders, and everyone who believes programming should be accessible to all minds.**
 
 🚀 **The future of code starts here.** 🚀
+
+---
+
+## ♿ Accessibility
+
+HyperCode Research is committed to being accessible to everyone:
+
+- 👀 **Screen reader compatible** research documents
+- ⌨️ **Keyboard-first** navigation
+- 🎨 **High contrast** code samples
+- 🧠 **Neurodivergent-friendly** structure and language
+- 📝 **Clear, plain language** - research without jargon overload
+- 📊 **Visual aids** - diagrams, graphs, and knowledge maps
+
+**Need accommodations?** [Open an accessibility issue](https://github.com/welshDog/hypercode-research/issues/new?labels=accessibility)
+
+---
+
+## 💬 We Want Your Research Input!
+
+This is a **living research database** built for and with the neurodivergent community.
+
+### Quick Contribution Options:
+
+- 🐛 [Report an Issue](https://github.com/welshDog/hypercode-research/issues/new?labels=bug)
+- 💡 [Suggest Research](https://github.com/welshDog/hypercode-research/issues/new?labels=research)
+- ❓ [Ask a Question](https://github.com/welshDog/hypercode-research/discussions/new?category=q-a)
+- 📚 [Share a Discovery](https://github.com/welshDog/hypercode-research/discussions/new?category=research-discoveries)
+- 🎓 [Contribute Research](https://github.com/welshDog/hypercode-research/blob/main/CONTRIBUTING.md)
+- ❤️ [Join Discussions](https://github.com/welshDog/hypercode-research/discussions)
+
+**Your research shapes HyperCode.** Every forgotten language matters. Every neurodivergent perspective counts. Let's build the future of accessible programming together.
+
+---
+
+<div align="center">
+
+**Made with 💜 by neurodivergent researchers, for neurodivergent developers**
+
+[MIT License](LICENSE) | [Contributing Guide](CONTRIBUTING.md) | [Main HyperCode Repo](https://github.com/welshDog/hypercode)
+
+*HyperCode Research: Where forgotten wisdom meets future innovation*
+
+</div>
